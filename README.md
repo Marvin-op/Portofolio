@@ -1,4 +1,4 @@
-# Computer Engineering
+# **Computer Engineering**
 
 ###Education
 Programming C, Phd
