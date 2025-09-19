@@ -1,7 +1,7 @@
 # **Computer Engineering**
 
-###Education
+### Education
 Programming C, Phd
 
-###Work Experience
+### Work Experience
 SASA - for 
