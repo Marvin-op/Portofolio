@@ -2,4 +2,5 @@ title: Marvin Angelo Suhandi
 logo: /assets/img/circle_photo_profile.png
 description: Computer Engineering
 show_downloads: true
-remote_theme: theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+
