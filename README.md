@@ -1,4 +1,4 @@
-![Profile](/assets/img/circle_photo_profile.png)
+![Profile](/assets/img/circle_photo_profile.png){: style="width:150px; border-radius:50%;"}
 
 # **Computer Engineering**
 
