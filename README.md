@@ -1,3 +1,4 @@
+[Profile](/assets/img/circle_photo_profile.png)
 # **Computer Engineering**
 
 ### Profil
