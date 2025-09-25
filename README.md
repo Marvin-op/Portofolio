@@ -3,7 +3,7 @@
 ### Profil
 Mahasiswa Computer Engineering dengan minat pada jaringan komputer, infrastruktur IT, serta sistem berbasis mikrokontroler. Memiliki pengalaman dalam konfigurasi jaringan menggunakan Cisco Packet Tracer, serta perancangan sistem embedded. Terbiasa bekerja dalam tim, mampu belajar cepat, dan tertarik mengembangkan diri di bidang Network Administration & IT Infrastructure.
 
-### Keahlian: Python, Cisco Packet Tracer, C, C++
+### Keahlian: C, Cisco Packet Tracer, Python, C++
 
 ### Project
 1. Cisco Network Simulation (Packet Tracer)
