@@ -25,5 +25,5 @@ Mahasiswa Computer Engineering dengan minat pada jaringan komputer, infrastruktu
 
 ### Kontak
 - Telp: +6281282245503
-- Email: marvin.angelo.suhandi@gmail.com
+- Email: marvin.suhandi@binus.ac.id
 - LinkedIn:[LinkedIn](https://www.linkedin.com/in/marvin-angelo-suhandi-077464385)
