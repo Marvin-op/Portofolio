@@ -14,7 +14,7 @@ Mahasiswa Computer Engineering dengan minat pada jaringan komputer, infrastruktu
   
   
   
-6. Drowsiness Detection System (ATtiny85 + Sensors)
+6. Drowsy-Alert: Sistem Mendeteksi Microsleep (ATtiny85 + Sensors)
 
    Video presentasi (23 menit) dengan PPT dan demo prototipe sistem peringatan pengemudi mengantuk berbasis mikrokontroler ATtiny85, menggunakan sensor MPU6050 dengan Kalman filter serta sensor KY-032 yang mengaktifkan buzzer dan motor getar saat microsleep terdeteksi.
 
